@@ -96,7 +96,7 @@
   "gamemode.domination.caps": "DOMINADO",
   "gamemode.domination": "Dominado",
   "gamemode.domination.description.button": "Ludu ĝis nur unu tribo restas, sen tempolimo.",
-  "gamemode.domination.description": "Viŝu ĉiujn aliajn tribojn de la kvadrato. Povas esti nur unu.",
+  "gamemode.domination.description": "Viŝu ĉiujn aliajn tribojn de la kvadrato. Nur unu estu.",
   "gamemode.domination.win": "Vi venkis ĉiujn aliajn tribojn kaj unuigis la tutan kvadraton!",
   "gamemode.domination.loss": "Via lasta urbo estis perdita, vi estas venkita.",
   "gamemode.glory.caps": "GLORIO",
