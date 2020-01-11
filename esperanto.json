@@ -413,7 +413,7 @@
   "tooltip.ability.freeze_area": "Ĉi tiu unuaĵo povas frostigi la ĉirkaŭajn kahelojn inkluzive de ajnaj malamikaj unuaĵoj.",
   "tooltip.ability.freeze_auto": "Ĉi tiu unuaĵo frostigas iujn ajn ĉirkaŭajn kahelojn kaj unuaĵojn kiam ĝi moviĝas.",
   "tooltip.ability.skate": "Ĉi tiu unuaĵo ricevas duoblan movadon sur glaciaj kaheloj sed surtere ilia movado estas limigita al 1 kahelo kaj ĉiuj aliaj kapabloj estas malebligitaj.",
-  "tooltip.ability.fortify": "Ĉi tiu unuaĵo ricevas defendan bonuson ĝi kiam defendas siajn proprajn urbojn, duoblan bonuson kun urbomuro.",
+  "tooltip.ability.fortify": "Ĉi tiu unuaĵo ricevas defendan bonuson kiam ĝi defendas siajn proprajn urbojn (duoblan bonuson kun urbomuro).",
 
   "buttons.ok": "OK",
   "buttons.exit": "ELIRI",
