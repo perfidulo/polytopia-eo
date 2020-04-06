@@ -344,7 +344,7 @@
   "actionbox.unit.frozen": "Frostigita {0}",
   "actionbox.unit.kills": "{0}/{1} mortigoj",
   "actionbox.unit.veteran": "Veterano",
-  "actionbox.unit.new": "Trejni novan {0} {1}n",
+  "actionbox.unit.new": "Trejni novan {1} {0}n",
   "actionbox.unit.ability": "Kapablo de la Unuaĵo",
   "actionbox.unit.train": "TREJNI",
   "actionbox.unit.upgrade": "PLIBONIGI",
