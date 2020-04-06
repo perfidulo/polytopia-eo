@@ -454,7 +454,7 @@
   "polyplayer.task.network.title": "Reto",
   "polyplayer.task.network.description": "Ligu 5 urbojn al via ĉefurbo",
 
-  "task.info": "{0} por gajni {1}",
+  "task.info": "{0} por gajni '{1}'.",
 
   "price.stars": "stelo",
   "price.stars.plural": "steloj",
@@ -541,7 +541,7 @@
   "technology.movement": "Movado",
   "technology.movement.info": "ebligas movadon en {0}n",
   "technology.defence": "Defenda bonuso",
-  "technology.defence.info": "donas al via unuaĵo plua forton defendante {0}n",
+  "technology.defence.info": "donas al via unuaĵo pluan forton defendante {0}n",
   "technology.task": "{0} aktivigas la taskon {1}n",
   "technology.ability": "kapablo",
   "technology.ability.info": "{1} donas al vi la kapablon '{1}'",
