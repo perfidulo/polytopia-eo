@@ -317,10 +317,10 @@
   "unit.abilities.skate": "GLITI",
   "unit.abilities.fortify": "PLIFORTIGI",
 
-  "player.abilities.destroy": "pereigi",
-  "player.abilities.disband": "disigi",
+  "player.abilities.destroy": "pereiga",
+  "player.abilities.disband": "disiga",
   "player.abilities.literacy": "legoscio",
-  "player.abilities.glide": "glisi",
+  "player.abilities.glide": "glisa",
 
   "resource.names.fruit": "frukto",
   "resource.names.crop": "rikolto",
@@ -436,7 +436,7 @@
   "gamesaverbinary.unable.to.save.title": "Ne eblis konservi :(",
   "gamesaverbinary.error.loading.moves": "Erara ŝarĝante movojn",
 
-  "polyplayer.task": "tasko",
+  "polyplayer.task": "Tasko",
   "polyplayer.task.explorer.title": "Esplorista",
   "polyplayer.task.explorer.description": "Esploru ĉiun  kahelon en ĉi tiu kvadrata mondo",
   "polyplayer.task.war.title": "Senkompata",
@@ -543,7 +543,7 @@
   "technology.defence": "Defenda bonuso",
   "technology.defence.info": "donas al via unuaĵo pluan forton defendante {0}n",
   "technology.task": "{0} aktivigas la taskon {1}n",
-  "technology.ability": "kapablo",
+  "technology.ability": "Kapablo",
   "technology.ability.info": "{1} donas al vi la kapablon '{1}'",
   "technology.names.basic": "baza",
   "technology.names.riding": "Rajdado",
