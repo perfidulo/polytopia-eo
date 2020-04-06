@@ -627,7 +627,7 @@
   "bottommenu.gamestats": "Statiskoj",
   "bottommenu.menu": "Menuo",
   "bottommenu.nextturn": "Sekva Vico",
-  "bottommenu.techtree": "Arbo de Teĥnologioj",
+  "bottommenu.techtree": "Teĥnologioj",
 
   "endscreen.done": "Farita",
   "endscreen.ruledby": "Regata de {0}",
@@ -678,8 +678,8 @@
   "multiplayer.clipboard": "Aldonita al tondujo",
   "multiplayer.clipboard.title": "Jen!",
 
-  "gamestats.gamemode": "Game mode: {0}",
-  "gamestats.bonus": "Difficulty bonus: {0}",
+  "gamestats.gamemode": "Ludreĝimo: {0}",
+  "gamestats.bonus": "Bonuso de malfacileco: {0}",
   "gamestats.speed": "Speed skills",
   "gamestats.speed.info": "{0}/{1} turns",
   "gamestats.battle": "Battle skills",
