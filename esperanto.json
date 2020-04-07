@@ -260,7 +260,7 @@
   "building.names.iceport": "Antaŭposteno",
   "building.names.icetemple": "Glacia templo",
 
-  "unit": "unuaĵo",
+  "unit": "Unuaĵo",
   "unit.info.attack": "Atako",
   "unit.info.defence": "Defendo",
   "unit.info.movement": "Movkapablo",
@@ -317,10 +317,10 @@
   "unit.abilities.skate": "GLITI",
   "unit.abilities.fortify": "PLIFORTIGI",
 
-  "player.abilities.destroy": "pereiga",
-  "player.abilities.disband": "disiga",
+  "player.abilities.destroy": "pereigi",
+  "player.abilities.disband": "disigi",
   "player.abilities.literacy": "legoscio",
-  "player.abilities.glide": "glisa",
+  "player.abilities.glide": "glisi",
 
   "resource.names.fruit": "frukto",
   "resource.names.crop": "rikolto",
@@ -438,7 +438,7 @@
 
   "polyplayer.task": "Tasko",
   "polyplayer.task.explorer.title": "Esplorista",
-  "polyplayer.task.explorer.description": "Esploru ĉiun  kahelon en ĉi tiu kvadrata mondo",
+  "polyplayer.task.explorer.description": "Esploru ĉiun kahelon en ĉi tiu kvadrata mondo",
   "polyplayer.task.war.title": "Senkompata",
   "polyplayer.task.war.description": "Forviŝu malamikon",
   "polyplayer.task.pacifist.title": "Pacifista",
