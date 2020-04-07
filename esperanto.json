@@ -211,7 +211,7 @@
   "building.reward.tech": "donas al vi {0}n",
   "building.reward.instant": "senprokraste donas al vi {0}n",
   "building.transform": "transformas {0} en {1}",
-  "building.transform2": "transformas {0} en {1} kun {2} ",
+  "building.transform2": "transformas {0} en {1} kun {2}",
   "building.resource": "aldonas {0} al elektita kahelo",
   "building.value": "valoras {0} poentojn",
   "building.ability.embark": "Unuaĵoj, kiuj moviĝas ĉi tie, iĝos ŝipoj, kiuj povas movi sur akvo.",
