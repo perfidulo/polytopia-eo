@@ -676,7 +676,7 @@
   "multiplayer.activegames": "Aktivaj partioj",
   "multiplayer.finishedgames": "Finitaj Partioj",
   "multiplayer.creategame": "Krei partion",
-  "multiplayer.clipboard": "Aldonita al tondujo",
+  "multiplayer.clipboard": "Aldonita al tondujo.",
   "multiplayer.clipboard.title": "Jen!",
 
   "gamestats.gamemode": "Ludreĝimo: {0}",
@@ -806,7 +806,7 @@
   "friendlist.new.caps": "NOVA AMIKO",
   "friendlist.new.title": "Aldoni novan amikon",
   "friendlist.new.info": "Enigu la ID de via amiko. (trovebla sur la amika paĝo)",
-  "friendlist.new.button": "ALDONU",
+  "friendlist.new.button": "ALDONI",
   "friendlist.new.input": "ID:",
   "friendlist.new.myself.title": "Min, mi mem kaj mi",
   "friendlist.new.myself.info": "Ŝajnas, ke vi provis aldoni vin mem kiel amikon. Tio povus aspekti amuza, sed ĝi aldonus ekzistecan tavolon al la ludo, kiun ni nuntempe ne povas pritrakti. Bonvolu entajpu la ID-on de iu alia.",
