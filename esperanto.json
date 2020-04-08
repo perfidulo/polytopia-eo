@@ -110,7 +110,7 @@
   "gamemode.death": "Via lasta urbo estis perdita, vi estas venkita.",
 
   "world.intro.title": "Potenca ĉefo!",
-  "world.intro.text": "Vi estis elektita por ĉefi la tribo {0}. Esploru la mondon kaj pliampleksigu vian imperion, sed atentu la aliajn tribojn.",
+  "world.intro.text": "Vi estis elektita por kondukti la tribon {0}. Esploru la mondon kaj pliampleksigu vian imperion, sed atentu la aliajn tribojn.",
   "world.intro.objective": "Celo: {0}",
   "world.turn.end": "Fini vicon",
   "world.turn.end.question": "Fini vian vicon?",
@@ -384,8 +384,8 @@
   "tooltip.unit.city.capture.next": "Ĉi tiu urbo pretos por kapti la venontan vicon",
   "tooltip.unit.city.capture.flying": "Flugantaj unuaĵoj ne povas kapti urbojn",
   "tooltip.unit.actions.none": "Neniu ago disponeblas. Frapetu 'Fini vicon' por movi ĉi tiun unuaĵon denove.",
-  "tooltip.unit.actions.move": "Alklaku bluan markon por movi.",
-  "tooltip.unit.actions.attack": "Alklaku ruĝan markon por ataki!",
+  "tooltip.unit.actions.move": "Frapetu bluan markon por movi.",
+  "tooltip.unit.actions.attack": "Frapetu ruĝan markon por ataki!",
   "tooltip.unit.enemy": "Jen la malamiko!",
   "tooltip.unit.enemy.territory": "Ĉi tiu malamiko estas en via teritorio!",
   "tooltip.unit.enemy.city": "Ĉi tiu malamiko kaptas vian urbon!",
@@ -465,7 +465,7 @@
   "price.points.plural": "poentoj",
 
   "wcontroller.online.yourturn.title": "Jen via vico!",
-  "wcontroller.online.yourturn.description": "Alklaku OK por daŭrigi la partion, kiam vi pretos.",
+  "wcontroller.online.yourturn.description": "Frapetu OK por daŭrigi la partion, kiam vi pretos.",
   "wcontroller.convertvillage.description": "La vilaĝanoj konsentas aliĝi al via emerĝanta imperio!",
   "wcontroller.convertvillage.title": "Vilaĝo konvertita!",
   "wcontroller.capital.regained.description": "Vi reakiris kontrolon de via ĉefurbo, komercaj retoj denove funkcias.",
@@ -840,7 +840,7 @@
   "friendlist.removed.info": "{0} estis forigita.",
 
   "idconsole.playerid": "Via ID:",
-  "idconsole.share": "Sendu ĉi tiun ID al iu ajn kontraŭ kiu vi volas ludi. Alklaku ĝin por kopii.",
+  "idconsole.share": "Sendu ĉi tiun ID al iu ajn kontraŭ kiu vi volas ludi. Frapetu ĝin por kopii.",
   "idconsole.clipboard": "ID {0} aldonita al tondujo",
   "idconsole.clipboard.title": "Jen!",
 
